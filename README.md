@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/glaubergad" alt="Glauber Gadelha">
+<img width="auto" src="https://github.com/glaubergad.png" alt="Glauber Gadelha">
 
 ### GlauberGad 👋
 
