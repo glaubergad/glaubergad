@@ -1,10 +1,12 @@
 <img width="auto" src="https://github.com/glaubergad.png" alt="Glauber Gadelha">
 
-### GlauberGad 👋
+# GlauberGad 👋
 
-## Hello there!
+### Hello there!
 
-## I'm a Java, PHP and Javascript programmer, working and living in Belem - Para - Brazil
+Sou desenvolvedor Fullstack (Java/Spring + Angular 8+) :computer:. Atualmente vivo e trabalho em Belém - PA - Brasil.
+
+My LinkedIn Profile: 
 
 
 
