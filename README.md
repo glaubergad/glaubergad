@@ -4,7 +4,7 @@
 
 ### Hello there!
 
-Sou desenvolvedor Fullstack:computer:. Atualmente vivo e trabalho em Belém - PA - Brasil.
+Sou desenvolvedor Fullstack:computer:. Atualmente vivo e trabalho em Benevides - PA - Brasil.
 
  <br/> :computer: &nbsp; Minha stack: Java + Springboot 2.4, Angular 8+
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologia em geral, música, minha família e, acima de tudo Deus.
